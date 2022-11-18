@@ -5,7 +5,7 @@
 package main
 
 import (
-	"GoProject/Ex4.10/github"
+	"GoEx/Ex4.10/github"
 	"fmt"
 	"log"
 	"os"
