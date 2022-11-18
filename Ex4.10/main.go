@@ -14,7 +14,6 @@ import (
 
 func main() {
 
-	// 获取过去一个月的时间，判断createtime是否在那个时间之后，在，就是不到一个月的
 	mbefore := time.Now().AddDate(0, -1, 0) // 一个月前
 	ybefore := time.Now().AddDate(-1, 0, 0) // 一年前的时间
 
