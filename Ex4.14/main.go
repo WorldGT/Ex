@@ -1,5 +1,5 @@
 // go run main.go repo:golang/go is:open json decoder
-// TODO :  未完成
+
 package main
 
 import (
